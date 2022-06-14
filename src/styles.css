@@ -1,0 +1,25 @@
+#new-tweet-content {
+  width: 80%;
+  height: 100px;
+}
+
+#submit-new-tweet {
+  width: 20%;
+}
+
+#writing-area {
+  display: flex;
+}
+
+#tweets {
+  padding: 0;
+  margin: 0;
+}
+
+li.tweet {
+  list-style: none;
+  border: 1px solid transparent;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
